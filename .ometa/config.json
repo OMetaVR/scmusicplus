@@ -1,0 +1,10 @@
+{
+  "upstream": "Rov3r/scmusicplus",
+  "name": "SCMusicPlus",
+  "base": {
+    "name": "SoundCloud",
+    "bundleId": "com.soundcloud.TouchApp",
+    "appStoreId": 336353151,
+    "version": { "from": "any" }
+  }
+}
